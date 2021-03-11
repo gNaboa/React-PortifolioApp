@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bitdreamerapp/static/css/main.7335ace3.chunk.css",
-    "main.js": "/bitdreamerapp/static/js/main.8fba79b9.chunk.js",
-    "main.js.map": "/bitdreamerapp/static/js/main.8fba79b9.chunk.js.map",
+    "main.js": "/bitdreamerapp/static/js/main.e20b6e23.chunk.js",
+    "main.js.map": "/bitdreamerapp/static/js/main.e20b6e23.chunk.js.map",
     "runtime-main.js": "/bitdreamerapp/static/js/runtime-main.d47b2e2f.js",
     "runtime-main.js.map": "/bitdreamerapp/static/js/runtime-main.d47b2e2f.js.map",
     "static/js/2.bc2ab38a.chunk.js": "/bitdreamerapp/static/js/2.bc2ab38a.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d47b2e2f.js",
     "static/js/2.bc2ab38a.chunk.js",
     "static/css/main.7335ace3.chunk.css",
-    "static/js/main.8fba79b9.chunk.js"
+    "static/js/main.e20b6e23.chunk.js"
   ]
 }
