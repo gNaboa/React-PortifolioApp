@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bitdreamerapp/static/css/main.7335ace3.chunk.css",
-    "main.js": "/bitdreamerapp/static/js/main.ef472d0e.chunk.js",
-    "main.js.map": "/bitdreamerapp/static/js/main.ef472d0e.chunk.js.map",
+    "main.css": "/bitdreamerapp/static/css/main.18303ee3.chunk.css",
+    "main.js": "/bitdreamerapp/static/js/main.ac8522c8.chunk.js",
+    "main.js.map": "/bitdreamerapp/static/js/main.ac8522c8.chunk.js.map",
     "runtime-main.js": "/bitdreamerapp/static/js/runtime-main.d47b2e2f.js",
     "runtime-main.js.map": "/bitdreamerapp/static/js/runtime-main.d47b2e2f.js.map",
     "static/js/2.bc2ab38a.chunk.js": "/bitdreamerapp/static/js/2.bc2ab38a.chunk.js",
     "static/js/2.bc2ab38a.chunk.js.map": "/bitdreamerapp/static/js/2.bc2ab38a.chunk.js.map",
     "index.html": "/bitdreamerapp/index.html",
-    "static/css/main.7335ace3.chunk.css.map": "/bitdreamerapp/static/css/main.7335ace3.chunk.css.map",
+    "static/css/main.18303ee3.chunk.css.map": "/bitdreamerapp/static/css/main.18303ee3.chunk.css.map",
     "static/js/2.bc2ab38a.chunk.js.LICENSE.txt": "/bitdreamerapp/static/js/2.bc2ab38a.chunk.js.LICENSE.txt",
     "static/media/Retrato-Wesley-Web.bdddab76.png": "/bitdreamerapp/static/media/Retrato-Wesley-Web.bdddab76.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d47b2e2f.js",
     "static/js/2.bc2ab38a.chunk.js",
-    "static/css/main.7335ace3.chunk.css",
-    "static/js/main.ef472d0e.chunk.js"
+    "static/css/main.18303ee3.chunk.css",
+    "static/js/main.ac8522c8.chunk.js"
   ]
 }
