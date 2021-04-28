@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-PortifolioApp/static/css/main.92205ce2.chunk.css",
-    "main.js": "/React-PortifolioApp/static/js/main.f325be26.chunk.js",
-    "main.js.map": "/React-PortifolioApp/static/js/main.f325be26.chunk.js.map",
+    "main.css": "/React-PortifolioApp/static/css/main.270c0cbd.chunk.css",
+    "main.js": "/React-PortifolioApp/static/js/main.8778b1a9.chunk.js",
+    "main.js.map": "/React-PortifolioApp/static/js/main.8778b1a9.chunk.js.map",
     "runtime-main.js": "/React-PortifolioApp/static/js/runtime-main.d241c24e.js",
     "runtime-main.js.map": "/React-PortifolioApp/static/js/runtime-main.d241c24e.js.map",
     "static/js/2.20cfaa18.chunk.js": "/React-PortifolioApp/static/js/2.20cfaa18.chunk.js",
     "static/js/2.20cfaa18.chunk.js.map": "/React-PortifolioApp/static/js/2.20cfaa18.chunk.js.map",
     "index.html": "/React-PortifolioApp/index.html",
-    "static/css/main.92205ce2.chunk.css.map": "/React-PortifolioApp/static/css/main.92205ce2.chunk.css.map",
+    "static/css/main.270c0cbd.chunk.css.map": "/React-PortifolioApp/static/css/main.270c0cbd.chunk.css.map",
     "static/js/2.20cfaa18.chunk.js.LICENSE.txt": "/React-PortifolioApp/static/js/2.20cfaa18.chunk.js.LICENSE.txt",
     "static/media/Retrato-Wesley-Web.bdddab76.png": "/React-PortifolioApp/static/media/Retrato-Wesley-Web.bdddab76.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d241c24e.js",
     "static/js/2.20cfaa18.chunk.js",
-    "static/css/main.92205ce2.chunk.css",
-    "static/js/main.f325be26.chunk.js"
+    "static/css/main.270c0cbd.chunk.css",
+    "static/js/main.8778b1a9.chunk.js"
   ]
 }
